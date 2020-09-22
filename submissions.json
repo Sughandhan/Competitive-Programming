@@ -2966,6 +2966,22 @@
     ],
     "timestamp": "Sep/21/2020 06:42"
   },
+  "CF93466885": {
+    "contest_id": 133,
+    "language": "GNU C++17",
+    "path": "codeforces\\133\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF93466885",
+    "submission_url": "https://codeforces.com/contest/133/submission/93466885",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/22/2020 14:53"
+  },
   "CF93467651": {
     "contest_id": 580,
     "language": "GNU C++17",
