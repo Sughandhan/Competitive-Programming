@@ -2746,5 +2746,21 @@
       "two pointers"
     ],
     "timestamp": "Apr/30/2021 18:55"
+  },
+  "CF94581039": {
+    "contest_id": 1350,
+    "language": "GNU C++17",
+    "path": "codeforces\\1350\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Orac and Factors",
+    "problem_url": "https://codeforces.com/contest/1350/problem/A",
+    "submission_id": "CF94581039",
+    "submission_url": "https://codeforces.com/contest/1350/submission/94581039",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/03/2020 20:31"
   }
 }
