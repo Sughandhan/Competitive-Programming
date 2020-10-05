@@ -16,10 +16,9 @@ int main(){
             continue;
         }
         else{
-            long long int count=0;
-            a=a-b;
-            count= ((a+c-d-1)/(c-d))*c;
-            cout<<b+count<<endl;
+            long long int ans=b;
+            ans+= (((a-b)+(c-d)-1)/(c-d))*c;
+            cout<<ans<<endl;
         }
     }
     return 0;
