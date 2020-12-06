@@ -1,4 +1,20 @@
 {
+  "CF100577623": {
+    "contest_id": 1295,
+    "language": "GNU C++17",
+    "path": "codeforces\\1295\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Display The Number",
+    "problem_url": "https://codeforces.com/contest/1295/problem/A",
+    "submission_id": "CF100577623",
+    "submission_url": "https://codeforces.com/contest/1295/submission/100577623",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Dec/06/2020 22:49"
+  },
   "CF100604578": {
     "contest_id": 1433,
     "language": "GNU C++17",
