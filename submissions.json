@@ -1,4 +1,21 @@
 {
+  "CF100567065": {
+    "contest_id": 1206,
+    "language": "GNU C++17",
+    "path": "codeforces\\1206\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Product Equal One",
+    "problem_url": "https://codeforces.com/contest/1206/problem/B",
+    "submission_id": "CF100567065",
+    "submission_url": "https://codeforces.com/contest/1206/submission/100567065",
+    "tags": [
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/06/2020 21:52"
+  },
   "CF100577623": {
     "contest_id": 1295,
     "language": "GNU C++17",
