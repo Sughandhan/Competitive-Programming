@@ -1,49 +1,30 @@
-#include<iostream>
- 
+#include<bits/stdc++.h>
+#define ll long long
 using namespace std;
- 
-int main(){
+
+const int maxx=1e2+10;
+int a[maxx];
+int vis[maxx*maxx];
+int n,x;
+
+int main()
+{
     int t;
-    cin>>t;
-    while(t--){
-        int n,x;
-        cin>>n>>x;
-        int arr[301];
-        for(int i=0; i<201;i++){
-            arr[i]=0;
-        }
-        for(int i=0;i<n;i++){
-            int c;
-            cin>>c;
-            arr[c]++;
-        }
-        int ind=1;
-        while(x){
-            while(arr[ind]){
-                ind++;
-            }
-            arr[ind]++;
+    scanf("%d",&t);
+    while(t--)
+    {
+        scanf("%d%d",&n,&x);
+        memset(vis,0,sizeof(vis));
+        for(int i=1;i<=n;i++) scanf("%d",&a[i]),vis[a[i]]=1;
+        int ans=1;
+        while(x)
+        {
+            while(vis[ans]) ans++;
+            vis[ans]=1;
             x--;
         }
-        while(arr[ind]){
-            ind++;
-        }
-        // for(int i=1;x>=0;i++){
-        //     if(arr[i]==0){
-        //         x--;
-        //         if(x<0){
-        //             ind = i-1;
-        //             break;
-        //         }
-        //     }
-        //     else{
-        //         continue;
-        //     }
-        // }
-        if(ind>200){
-            ind=201;
-        }
-        cout<<ind-1<<"\n";
+        while(vis[ans]) ans++;
+        cout<<ans-1<<endl;
     }
     return 0;
 }
