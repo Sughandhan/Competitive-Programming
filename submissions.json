@@ -1,4 +1,20 @@
 {
+  "CF102736318": {
+    "contest_id": 584,
+    "language": "GNU C++17",
+    "path": "codeforces\\584\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Olesya and Rodion",
+    "problem_url": "https://codeforces.com/contest/584/problem/A",
+    "submission_id": "CF102736318",
+    "submission_url": "https://codeforces.com/contest/584/submission/102736318",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/30/2020 10:38"
+  },
   "CF102886702": {
     "contest_id": 1342,
     "language": "GNU C++17",
