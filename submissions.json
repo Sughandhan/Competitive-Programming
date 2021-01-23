@@ -1,4 +1,22 @@
 {
+  "CF105130247": {
+    "contest_id": 804,
+    "language": "GNU C++17",
+    "path": "codeforces\\804\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find Amir",
+    "problem_url": "https://codeforces.com/contest/804/problem/A",
+    "submission_id": "CF105130247",
+    "submission_url": "https://codeforces.com/contest/804/submission/105130247",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/23/2021 13:23"
+  },
   "CF105133895": {
     "contest_id": 1277,
     "language": "GNU C++17",
