@@ -1,4 +1,20 @@
 {
+  "CF106133437": {
+    "contest_id": 991,
+    "language": "GNU C++17",
+    "path": "codeforces\\991\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "If at first you don't succeed...",
+    "problem_url": "https://codeforces.com/contest/991/problem/A",
+    "submission_id": "CF106133437",
+    "submission_url": "https://codeforces.com/contest/991/submission/106133437",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Feb/01/2021 00:20"
+  },
   "CF106165355": {
     "contest_id": 706,
     "language": "GNU C++17",
