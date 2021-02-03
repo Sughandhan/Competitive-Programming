@@ -1,4 +1,21 @@
 {
+  "CF106398422": {
+    "contest_id": 363,
+    "language": "GNU C++17",
+    "path": "codeforces\\363\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fence",
+    "problem_url": "https://codeforces.com/contest/363/problem/B",
+    "submission_id": "CF106398422",
+    "submission_url": "https://codeforces.com/contest/363/submission/106398422",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1100"
+    ],
+    "timestamp": "Feb/04/2021 00:05"
+  },
   "CF106404552": {
     "contest_id": 82,
     "language": "GNU C++17",
