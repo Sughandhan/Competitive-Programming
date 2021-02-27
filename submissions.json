@@ -1,4 +1,21 @@
 {
+  "CF108610423": {
+    "contest_id": 1407,
+    "language": "GNU C++17",
+    "path": "codeforces\\1407\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ahahahahahahahaha",
+    "problem_url": "https://codeforces.com/contest/1407/problem/A",
+    "submission_id": "CF108610423",
+    "submission_url": "https://codeforces.com/contest/1407/submission/108610423",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Feb/27/2021 19:23"
+  },
   "CF108628968": {
     "contest_id": 1108,
     "language": "GNU C++17",
