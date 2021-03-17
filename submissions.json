@@ -1,4 +1,20 @@
 {
+  "CF110150234": {
+    "contest_id": 733,
+    "language": "GNU C++17",
+    "path": "codeforces\\733\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Parade",
+    "problem_url": "https://codeforces.com/contest/733/problem/B",
+    "submission_id": "CF110150234",
+    "submission_url": "https://codeforces.com/contest/733/submission/110150234",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/17/2021 12:55"
+  },
   "CF110395166": {
     "contest_id": 259,
     "language": "GNU C++17",
