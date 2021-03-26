@@ -11,12 +11,11 @@ int main(){
         if(s[i]!=t[i]){
             if(n%2==0){
                 p[i]=s[i];
-                n++;
             }
             else{
                 p[i]=t[i];
-                n++;
             }
+            n++;
         }
     }
     if(n%2==1){
