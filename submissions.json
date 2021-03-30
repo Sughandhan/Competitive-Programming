@@ -1,4 +1,21 @@
 {
+  "CF111446672": {
+    "contest_id": 1042,
+    "language": "GNU C++17",
+    "path": "codeforces\\1042\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Benches",
+    "problem_url": "https://codeforces.com/contest/1042/problem/A",
+    "submission_id": "CF111446672",
+    "submission_url": "https://codeforces.com/contest/1042/submission/111446672",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/30/2021 13:02"
+  },
   "CF111548081": {
     "contest_id": 735,
     "language": "GNU C++17",
