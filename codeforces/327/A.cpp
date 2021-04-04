@@ -5,34 +5,30 @@
 using namespace std;
  
 int main(){
-    int n , one=0;
+    int n;
     cin>>n;
-    int arr[n];
+    int max=0, zero=0, one=0;
     for(int i=0;i<n;i++){
         int x;
         cin>>x;
         if(x==0){
-            arr[i]=1;
+            zero++;
+            if(zero>max){
+                max=zero;
+            }
         }
         else{
             one++;
-            arr[i]=-1;
+            if(zero>0){
+                zero-=1;
+            }
         }
     }
-    int max_ending_here=0, max_so_far=0;
-    for(int i = 0; i < n; i++){
-        max_ending_here += arr[i];
-
-        if(max_ending_here > max_so_far)max_so_far = max_ending_here;
-
-        if(max_ending_here < 0)max_ending_here = 0;
-
-    }
-    if(max_so_far==0){
+    if(max==0){
         cout<<one-1;
     }
     else{
-        cout<<one + max_so_far;
+        cout<<one+max;
     }
     return 0;
 }
