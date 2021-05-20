@@ -3129,6 +3129,22 @@
     ],
     "timestamp": "May/18/2021 23:57"
   },
+  "CF116834084": {
+    "contest_id": 1527,
+    "language": "GNU C++17",
+    "path": "codeforces\\1527\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "And Then There Were K",
+    "problem_url": "https://codeforces.com/contest/1527/problem/A",
+    "submission_id": "CF116834084",
+    "submission_url": "https://codeforces.com/contest/1527/submission/116834084",
+    "tags": [
+      "bitmasks",
+      "*800"
+    ],
+    "timestamp": "May/20/2021 21:51"
+  },
   "CF93095094": {
     "contest_id": 4,
     "language": "GNU C++17",
