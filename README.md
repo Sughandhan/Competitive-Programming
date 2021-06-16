@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-252 | [B - Lecture Sleep](https://codeforces.com/contest/961/problem/B) | [GNU C++17](./codeforces/961/B.cpp) | `data structures` `dp` `implementation` `two pointers` `*1200` | Jun/16/2021 23:47 | 
+253 | [B - Lecture Sleep](https://codeforces.com/contest/961/problem/B) | [GNU C++17](./codeforces/961/B.cpp) | `data structures` `dp` `implementation` `two pointers` `*1200` | Jun/16/2021 23:47 | 
+252 | [C - Letters](https://codeforces.com/contest/978/problem/C) | [GNU C++17](./codeforces/978/C.cpp) | `binary search` `implementation` `two pointers` `*1000` | Jun/16/2021 23:27 | 
 251 | [C - Diluc and Kaeya](https://codeforces.com/contest/1536/problem/C) | [GNU C++17](./codeforces/1536/C.cpp) | `data structures` `dp` `hashing` `number theory` `*1500` | Jun/15/2021 23:44 | 
 250 | [B - Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | [GNU C++17](./codeforces/1534/B.cpp) | `greedy` `implementation` `math` | Jun/14/2021 01:32 | 
 249 | [C - Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C) | [GNU C++17](./codeforces/1534/C.cpp) | `combinatorics` `dfs and similar` `dp` `dsu` `graphs` `math` | Jun/13/2021 23:13 | 
