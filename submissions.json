@@ -3888,6 +3888,25 @@
     ],
     "timestamp": "Jun/16/2021 23:47"
   },
+  "CF119781141": {
+    "contest_id": 743,
+    "language": "GNU C++17",
+    "path": "codeforces\\743\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chloe and the sequence ",
+    "problem_url": "https://codeforces.com/contest/743/problem/B",
+    "submission_id": "CF119781141",
+    "submission_url": "https://codeforces.com/contest/743/submission/119781141",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/18/2021 15:41"
+  },
   "CF93095094": {
     "contest_id": 4,
     "language": "GNU C++17",
