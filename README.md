@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-266 | [D - Queue](https://codeforces.com/contest/545/problem/D) | [GNU C++17](./codeforces/545/D.cpp) | `greedy` `implementation` `sortings` `*1300` | Jun/19/2021 23:46 | 
-265 | [B - Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | [GNU C++17](./codeforces/459/B.cpp) | `combinatorics` `implementation` `sortings` `*1300` | Jun/19/2021 23:32 | 
-264 | [B - Sort the Array](https://codeforces.com/contest/451/problem/B) | [GNU C++17](./codeforces/451/B.cpp) | `implementation` `sortings` `*1300` | Jun/19/2021 20:36 | 
-263 | [B - Micro-World](https://codeforces.com/contest/990/problem/B) | [GNU C++17](./codeforces/990/B.cpp) | `greedy` `sortings` `*1200` | Jun/19/2021 19:59 | 
-262 | [B - Alyona and Mex](https://codeforces.com/contest/682/problem/B) | [GNU C++17](./codeforces/682/B.cpp) | `sortings` `*1200` | Jun/19/2021 19:13 | 
+267 | [D - Queue](https://codeforces.com/contest/545/problem/D) | [GNU C++17](./codeforces/545/D.cpp) | `greedy` `implementation` `sortings` `*1300` | Jun/19/2021 23:46 | 
+266 | [B - Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | [GNU C++17](./codeforces/459/B.cpp) | `combinatorics` `implementation` `sortings` `*1300` | Jun/19/2021 23:32 | 
+265 | [B - Sort the Array](https://codeforces.com/contest/451/problem/B) | [GNU C++17](./codeforces/451/B.cpp) | `implementation` `sortings` `*1300` | Jun/19/2021 20:36 | 
+264 | [B - Micro-World](https://codeforces.com/contest/990/problem/B) | [GNU C++17](./codeforces/990/B.cpp) | `greedy` `sortings` `*1200` | Jun/19/2021 19:59 | 
+263 | [B - Alyona and Mex](https://codeforces.com/contest/682/problem/B) | [GNU C++17](./codeforces/682/B.cpp) | `sortings` `*1200` | Jun/19/2021 19:13 | 
+262 | [C - Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | [GNU C++17](./codeforces/1537/C.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*1200` | Jun/19/2021 00:08 | 
 261 | [B - Bad Boy](https://codeforces.com/contest/1537/problem/B) | [GNU C++17](./codeforces/1537/B.cpp) | `constructive algorithms` `greedy` `math` | Jun/18/2021 20:59 | 
 260 | [A - Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [GNU C++17](./codeforces/1537/A.cpp) | `greedy` `math` | Jun/18/2021 20:16 | 
 259 | [B - Chloe and the sequence ](https://codeforces.com/contest/743/problem/B) | [GNU C++17](./codeforces/743/B.cpp) | `binary search` `bitmasks` `constructive algorithms` `implementation` `*1200` | Jun/18/2021 15:41 | 
