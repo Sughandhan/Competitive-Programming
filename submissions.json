@@ -4165,6 +4165,23 @@
     ],
     "timestamp": "Jun/19/2021 23:46"
   },
+  "CF120119217": {
+    "contest_id": 1217,
+    "language": "GNU C++17",
+    "path": "codeforces\\1217\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Creating a Character",
+    "problem_url": "https://codeforces.com/contest/1217/problem/A",
+    "submission_id": "CF120119217",
+    "submission_url": "https://codeforces.com/contest/1217/submission/120119217",
+    "tags": [
+      "binary search",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/20/2021 17:28"
+  },
   "CF120133770": {
     "contest_id": 1260,
     "language": "GNU C++17",
