@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-275 | [B - Steps](https://codeforces.com/contest/152/problem/B) | [GNU C++17](./codeforces/152/B.cpp) | `binary search` `implementation` `*1300` | Jun/23/2021 14:49 | 
-274 | [B - Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | [GNU C++17](./codeforces/186/B.cpp) | `greedy` `sortings` `*1200` | Jun/23/2021 00:32 | 
-273 | [B - President's Office](https://codeforces.com/contest/6/problem/B) | [GNU C++17](./codeforces/6/B.cpp) | `implementation` `*1100` | Jun/22/2021 23:14 | 
-272 | [B - Sum of Digits](https://codeforces.com/contest/102/problem/B) | [GNU C++17](./codeforces/102/B.cpp) | `implementation` `*1000` | Jun/22/2021 22:38 | 
+276 | [B - Steps](https://codeforces.com/contest/152/problem/B) | [GNU C++17](./codeforces/152/B.cpp) | `binary search` `implementation` `*1300` | Jun/23/2021 14:49 | 
+275 | [B - Growing Mushrooms](https://codeforces.com/contest/186/problem/B) | [GNU C++17](./codeforces/186/B.cpp) | `greedy` `sortings` `*1200` | Jun/23/2021 00:32 | 
+274 | [B - President's Office](https://codeforces.com/contest/6/problem/B) | [GNU C++17](./codeforces/6/B.cpp) | `implementation` `*1100` | Jun/22/2021 23:14 | 
+273 | [B - Sum of Digits](https://codeforces.com/contest/102/problem/B) | [GNU C++17](./codeforces/102/B.cpp) | `implementation` `*1000` | Jun/22/2021 22:38 | 
+272 | [B - Burglar and Matches](https://codeforces.com/contest/16/problem/B) | [GNU C++17](./codeforces/16/B.cpp) | `greedy` `implementation` `sortings` `*900` | Jun/22/2021 13:46 | 
 271 | [A - Antipalindrome](https://codeforces.com/contest/981/problem/A) | [GNU C++17](./codeforces/981/A.cpp) | `brute force` `implementation` `strings` `*900` | Jun/21/2021 23:00 | 
 270 | [B - Nice Matrix](https://codeforces.com/contest/1422/problem/B) | [GNU C++17](./codeforces/1422/B.cpp) | `greedy` `implementation` `math` `*1300` | Jun/20/2021 23:57 | 
 269 | [B - Obtain Two Zeroes](https://codeforces.com/contest/1260/problem/B) | [GNU C++17](./codeforces/1260/B.cpp) | `binary search` `math` `*1300` | Jun/20/2021 19:33 | 
