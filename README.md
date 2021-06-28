@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+285 | [C - Permutation Partitions](https://codeforces.com/contest/1326/problem/C) | [GNU C++17](./codeforces/1326/C.cpp) | `combinatorics` `greedy` `math` `*1300` | Jun/28/2021 23:52 | 
 284 | [B - Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | [GNU C++17](./codeforces/1541/B.cpp) | `brute force` `sortings` | Jun/25/2021 22:57 | 
 283 | [A - Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | [GNU C++17](./codeforces/1541/A.cpp) | `constructive algorithms` `implementation` | Jun/25/2021 21:53 | 
 282 | [B - Semifinals](https://codeforces.com/contest/378/problem/B) | [GNU C++17](./codeforces/378/B.cpp) | `implementation` `sortings` `*1300` | Jun/25/2021 13:34 | 
