@@ -31,14 +31,21 @@ int main() {
 		vector<char> c;
 		ll n  = s.size();
 		ll ans = 0;
-		vector<ll> dp(2);
 		for (ll i = 0; i < n; i++) {
-			if (s[i] == 'Q') {
-				dp[0]++;
-				ans += dp[1];
-			}
-			else if (s[i] == 'A') {
-				dp[1] += dp[0];
+			if (s[i] == 'A') {
+				ll c1 = 0;
+				for (ll j = 0; j < i; j++) {
+					if (s[j] == 'Q') {
+						c1++;
+					}
+				}
+				ll c2 = 0;
+				for (ll j = i + 1; j < n; j++) {
+					if (s[j] == 'Q') {
+						c2++;
+					}
+				}
+				ans += (c1 * c2);
 			}
 		}
 		cout << ans << endl;
