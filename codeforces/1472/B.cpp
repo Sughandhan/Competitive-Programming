@@ -28,22 +28,25 @@ int main() {
 	while (t--) {
 		ll n;
 		cin >> n;
-		vector< ll> dp(3), v(n);
+		vector< ll> dp(2), v(n);
 		for (ll i = 0; i < n; i++) {
-			ll x;
-			cin >> x;
-			dp[x]++;
+			cin >> v[i];
 		}
-		if ((dp[2] * 2 + dp[1]) % 2 == 0) {
-			if ((dp[1] >= 2 && ((dp[2] * 2 + dp[1]) / 2) % 2 == 1) || ((dp[2] * 2 + dp[1]) / 2) % 2 == 0) {
-				cout << "YES\n";
+		sort(all(v), greater<ll>());
+		for (ll i = 0; i < n; i++) {
+			ll x = v[i];
+			if (dp[0] > dp[1]) {
+				dp[1] += x;
 			}
 			else {
-				cout << "NO\n";
+				dp[0] += x;
 			}
 		}
-		else {
+		if (dp[1] != dp[0]) {
 			cout << "NO\n";
+		}
+		else {
+			cout << "YES\n";
 		}
 	}
 	return 0;
