@@ -5104,6 +5104,24 @@
     ],
     "timestamp": "Jul/02/2021 19:06"
   },
+  "CF121829073": {
+    "contest_id": 940,
+    "language": "GNU C++17",
+    "path": "codeforces\\940\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Points on the line",
+    "problem_url": "https://codeforces.com/contest/940/problem/A",
+    "submission_id": "CF121829073",
+    "submission_url": "https://codeforces.com/contest/940/submission/121829073",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jul/09/2021 20:49"
+  },
   "CF121830564": {
     "contest_id": 509,
     "language": "GNU C++17",
