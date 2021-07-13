@@ -21,29 +21,19 @@ int main() {
 #ifndef ONLINE_JUDGE
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
-#endif
-	speedup;
-	// cout << 20 << endl;
-	ll t;
-	cin >> t;
-	while (t--) {
-		ll n, k;
-		cin >> n >> k;
-		vector<ll> v(n * k);
-		fr(i, 0, n * k) {
-			cin >> v[i];
-		}
-		ll sum = 0, x = n - ceil(n / (double)2);
-		ll left = ceil(n / (double)2) - 1;
-		ll c = 0;
-		for (ll i = v.size() - x - 1; i >= x - 1; i = i - (n - ceil(n / (double) 2) + 1)) {
-			if (c == k) {
-				break;
-			}
-			sum += v[i];
-			c++;
-		}
-		cout << sum << endl;
-	}
-	return 0;
+#endif;
+    int t; cin >> t;
+    while (t--) {
+        int n, k; cin >> n >> k;
+        vector <ll> a(n * k + 1);
+        for (int i = 1; i <= n * k; i++) {
+            cin >> a[i];
+        }
+        ll sum = 0; int cnt = 0;
+        for (int i = n * k - ceil(n / 2); cnt < k; i -= ceil(n / 2) + 1) {
+            sum += a[i]; cnt++;
+        }
+        cout << sum << "\n";
+    }
+    return 0;
 }
