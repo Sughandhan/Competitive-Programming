@@ -5699,6 +5699,23 @@
     ],
     "timestamp": "Jul/18/2021 14:42"
   },
+  "CF123296040": {
+    "contest_id": 1553,
+    "language": "GNU C++17",
+    "path": "codeforces\\1553\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Digits Sum",
+    "problem_url": "https://codeforces.com/contest/1553/problem/A",
+    "submission_id": "CF123296040",
+    "submission_url": "https://codeforces.com/contest/1553/submission/123296040",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jul/22/2021 20:15"
+  },
   "CF123455167": {
     "contest_id": 1551,
     "language": "GNU C++17",
