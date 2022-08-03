@@ -1,6 +1,12 @@
 Submissions
 ======================
 > *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
+## Other accounts
+*Leetcode (https://leetcode.com/Batman_Beyond_2802/)
+*InterviewBit (https://www.interviewbit.com/profile/sughi_bughi_-936)
+*Codeforces (https://codeforces.com/profile/Batman_Beyond_2802)
+*Codechef (https://www.codechef.com/users/sugstar123)
+
 
 ## Introduction
 
